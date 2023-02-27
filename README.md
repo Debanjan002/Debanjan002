@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Debanjan002
+- 👋 Hi, I’m @Debanjan
 - 👀 I’m interested in ...photography
 - 🌱 I’m currently learning ...b.tech in omputer science and engineering
 
